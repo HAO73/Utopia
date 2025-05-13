@@ -1,0 +1,249 @@
+@charset "utf-8";
+	.You_are
+{
+	background-image : url(You_are.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 334px;
+	top : 93px;
+	width : 123px;
+	height : 108px;
+}
+.Message
+{
+	background-image : url(Message.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 767px;
+	top : 91px;
+	width : 171px;
+	height : 146px;
+}
+.Name_alias
+{
+	background-image : url(Name_alias.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 374px;
+	top : 296px;
+	width : 131px;
+	height : 163px;
+}
+.image
+{
+	background-image : url(image.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1018px;
+	top : 143px;
+	width : 181px;
+	height : 30px;
+}
+.Town
+{
+	background-image : url(Town.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 452px;
+	top : 206px;
+	width : 95px;
+	height : 100px;
+}
+.How_Did
+{
+	background-image : url(How_Did.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 293px;
+	top : 431px;
+	width : 152px;
+	height : 179px;
+}
+.Email
+{
+	background-image : url(../src/assets/form/Email.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 649px;
+	top : 447px;
+	width : 113px;
+	height : 147px;
+}
+.st0
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 562px;
+	top : 230px;
+	width : 170px;
+	height : 38px;
+	border-radius : 12px;
+	-moz-border-radius : 12px;
+	-webkit-border-radius : 12px;
+}
+.st1
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 483px;
+	top : 122px;
+	width : 170px;
+	height : 38px;
+	border-radius : 12px;
+	-moz-border-radius : 12px;
+	-webkit-border-radius : 12px;
+}
+.Fond
+{
+	background : #007BED;
+	background : rgba(0, 123, 237, 1);
+	border-style : Solid;
+	border-color : #007BED;
+	border-color : rgba(0, 123, 237, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+	width : 1288px;
+	height : 621px;
+	border-radius : 107px;
+	-moz-border-radius : 107px;
+	-webkit-border-radius : 107px;
+}
+.st2
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 528px;
+	top : 353px;
+	width : 170px;
+	height : 38px;
+	border-radius : 12px;
+	-moz-border-radius : 12px;
+	-webkit-border-radius : 12px;
+}
+.st3
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 772px;
+	top : 513px;
+	width : 170px;
+	height : 38px;
+	border-radius : 12px;
+	-moz-border-radius : 12px;
+	-webkit-border-radius : 12px;
+}
+.image7
+{
+	background-image : url(image7.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 990px;
+	top : 530px;
+	width : 74px;
+	height : 74px;
+}
+.st4
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 459px;
+	top : 505px;
+	width : 170px;
+	height : 38px;
+	border-radius : 12px;
+	-moz-border-radius : 12px;
+	-webkit-border-radius : 12px;
+}
+.st5
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 782px;
+	top : 253px;
+	width : 298px;
+	height : 202px;
+	border-radius : 16px  / 12px;
+	-moz-border-radius : 16px  / 12px;
+	-webkit-border-radius : 16px  / 12px;
+}
+.image3
+{
+	background-image : url(image3.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 27px;
+	top : 459px;
+	width : 250px;
+	height : 144px;
+}
+.image1
+{
+	background-image : url(image1.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 36px;
+	top : 17px;
+	width : 252px;
+	height : 119px;
+}
+.image2
+{
+	background-image : url(image2.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1117px;
+	top : 246px;
+	width : 169px;
+	height : 346px;
+}
+.image4
+{
+	background-image : url(image4.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 975px;
+	top : 5px;
+	width : 292px;
+	height : 141px;
+}
+.image5
+{
+	background-image : url(image5.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 32px;
+	top : 157px;
+	width : 278px;
+	height : 291px;
+}
+.st6
+{
+	background : #FFFEFD;
+	background : rgba(255, 254, 253, 1);
+	position : absolute ;
+	left : 1001px;
+	top : 177px;
+	width : 240px;
+	height : 40px;
+	border-radius : 12px;
+	-moz-border-radius : 12px;
+	-webkit-border-radius : 12px;
+}
+.image6
+{
+	background-image : url(image6.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 319px;
+	top : 21px;
+	width : 668px;
+	height : 54px;
+}
