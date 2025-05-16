@@ -8,6 +8,8 @@
       <div class="content-wrapper">
         <!-- Contenu principal -->
         <div class="main-content">
+
+          <h1 class="funkthetown-title">Funkthetown</h1>
           <h1>Utopia</h1>
           
           <div class="text-content">
@@ -127,7 +129,7 @@ const planets = ref([
   // Planète centrale (nouvelle)
   {
     name: 'Funkthetown',
-    description: 'Hub central de l\'écosystème Funkthetown',
+    description: 'Le Hub',
     route: '/',
     class: 'planet-central',
     size: 120, // Plus grande que les autres
@@ -137,7 +139,7 @@ const planets = ref([
   },
   {
     name: 'DJ Flo',
-    description: 'Dj Flo',
+    description: "L'Esthète",
     route: 'https://djflo.funkthetown.net/',
     class: 'planet-djflo',
     size: 80,
@@ -147,7 +149,7 @@ const planets = ref([
   },
   {
     name: 'Funkthetown Recordings',
-    description: 'Le label de musique Funkthetown',
+    description: 'Le Label',
     route: 'https://funkthetown-recordings.bandcamp.com/music',
     class: 'planet-radio',
     size: 95,
@@ -158,7 +160,7 @@ const planets = ref([
   },
   {
     name: 'Funkthetown Events',
-    description: 'Les événements Funkthetown',
+    description: 'Les Events',
     route: 'https://events.funkthetown.net/',
     class: 'planet-events',
     size: 85,
@@ -169,7 +171,7 @@ const planets = ref([
   },
   {
     name: 'Funkthetown Radio',
-    description: 'La radio Funkthetown',
+    description: 'La Radio',
     route: 'https://radio.funkthetown.net/',
     class: 'planet-frds',
     size: 75,
@@ -179,7 +181,7 @@ const planets = ref([
   },
   {
     name: 'Piece de Jeux',
-    description: 'Le studio Piece de Jeux',
+    description: 'Le Studio',
     route: 'https://pdj.funkthetown.net/',
     class: 'planet-piece-de-jeux',
     size: 83,
@@ -189,7 +191,7 @@ const planets = ref([
   },
   {
     name: 'Marw',
-    description: 'Marw le pygmalion',
+    description: 'Le Pygmalion',
     route: 'https://marw.funkthetown.net/',
     class: 'planet-marw',
     size: 78,
@@ -199,7 +201,7 @@ const planets = ref([
   },
   {
     name: 'Em Tro',
-    description: 'Em Tro le composer',
+    description: 'Le Composer',
     route: 'https://emtro.funkthetown.net/',
     class: 'planet-emtro',
     size: 73,
@@ -210,8 +212,8 @@ const planets = ref([
   },
   {
     name: 'Funkthetown Clothes',
-    description: 'La collection de vêtements Funkthetown',
-    route: 'https://clothes.funkthetown.net/',  
+    description: 'La Collection De Vêtements',
+    route: 'https://funkthetownclothes.myspreadshop.net/',  
     class: 'planet-clothes',
     size: 88,
     orbit: 4.6,
@@ -220,7 +222,7 @@ const planets = ref([
   },
   {
     name: 'A One',
-    description: 'Le designer',
+    description: 'Le Designer',
     route: 'https://aone.funkthetown.net/',
     class: 'planet-aone',
     size: 76,
@@ -230,7 +232,7 @@ const planets = ref([
   },
   {
     name: 'Weather',
-    description: 'Weather le duo',
+    description: 'Le Duo',
     route: 'https://weather.funkthetown.net/',
     class: 'planet-weather',
     size: 82,
@@ -427,6 +429,15 @@ onMounted(() => {
   font-style: normal;
 }
 
+.funkthetown-title {
+  font-size: 3em;
+  color: #ffd700;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-family: 'ARLRDBD', Arial, sans-serif;
+  letter-spacing: 1px;
+
+}
+
 .galaxy-container {
   position: relative;
   width: 100%;
@@ -478,7 +489,7 @@ onMounted(() => {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   font-family: 'ARLRDBD', Arial, sans-serif;
   letter-spacing: 1px;
-  color: #ffd700;
+  color: #fff;
 }
 
 .mission-section {
